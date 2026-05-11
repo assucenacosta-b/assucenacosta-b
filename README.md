@@ -4,7 +4,7 @@
 
 System.out.println("Hello word! I'm Assucena"); 
 
-Tenho 17 anos e sou de Minas Gerais. Estou no terceiro ano do ensino médio e cursando técnico em informática no CEFET, focando em aprender Java e fazer Ciencias da Computação.
+Tenho 17 anos e sou de Minas Gerais, estou no terceiro ano do ensino médio e cursando técnico em informática no CEFET. Atualmente, dedico meus estudos ao desenvolvimento em Java e entrar em Ciencias da Computação.
 
 <h2 align="center">Tecnologias em Aprendizado</h2>
 
