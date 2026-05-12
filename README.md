@@ -51,6 +51,13 @@ Tenho 17 anos e sou de Minas Gerais, estou no terceiro ano do ensino médio e cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
+   />
 
 </p>
 
