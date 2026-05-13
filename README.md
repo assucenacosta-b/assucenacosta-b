@@ -8,7 +8,14 @@ Tenho 17 anos e sou de Minas Gerais, estou no terceiro ano do ensino médio e cu
 
 <h2 align="center">Tecnologias em Aprendizado</h2>
 
-<p align="center">
+<p align="center" >
+ <img 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
+  />
   <img 
     alt="HTML"
     title="HTML" 
@@ -44,6 +51,7 @@ Tenho 17 anos e sou de Minas Gerais, estou no terceiro ano do ensino médio e cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
+  
   <img 
     alt="Python" 
     title="Python"
