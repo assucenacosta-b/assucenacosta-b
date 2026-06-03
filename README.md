@@ -1,10 +1,10 @@
-# Hi there!
+# Hi there!୨ৎ
 
 **`IT student`**
 
-"I'm Assucena. I'm 17 years old and I'm from Minas Gerais. 
+I'm Assucena. I'm 17 years old and I'm from Minas Gerais. 
 
-I am in my third year of high school, currently taking a Technical Degree in Informatics at CEFET. Right now, I'm focusing my studies on Java development, and my goal is to pursue a degree in Computer Science."
+I am in my third year of high school, currently taking a Technical Degree in Informatics at CEFET. Right now, I'm focusing my studies on Java development, and my goal is to pursue a degree in Computer Science.
 
 ## Languages
 
