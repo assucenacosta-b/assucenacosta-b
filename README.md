@@ -20,3 +20,11 @@ I am in my third year of high school, currently taking a Technical Degree in Inf
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=900&color=ffd2e6&center=true&vCenter=true&width=760&lines=Thinking+is+an+act.+Feeling+is+a+fact;-Clarice+Lispector)](https://github.com/assucenacosta-b)
+
+</div>
