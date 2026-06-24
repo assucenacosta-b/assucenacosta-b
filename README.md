@@ -25,6 +25,6 @@ I am in my third year of high school, currently taking a Technical Degree in Inf
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=900&color=ffd2e6&center=true&vCenter=true&width=760&lines=Thinking+is+an+act.+Feeling+is+a+fact;-Clarice+Lispector)](https://github.com/assucenacosta-b)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=900&color=ffd2e6&center=true&vCenter=true&width=760&lines=Thinking+is+an+act.+Feeling+is+a+fact;-Clarice+Lispector)](https://github.com/assucenacosta-b)
 
 </div>
